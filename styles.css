@@ -1,1 +1,32 @@
-/*  your css code here. If applicable */
+h2{
+    text-align: center;
+    background-color: #f8f8f8
+}
+.price-tag{
+    width: 100%;
+    color: white;
+    background-color:  #2ecc71;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.book{
+    text-align: center;
+    background-color: #f8f8f8;
+    margin-top: 10px;
+    border-top: 20px;
+}
+.author{
+    text-align: left;
+    color:  #777777;;
+}
+
+.library{
+    background-color: #f8f8f8;
+}
+.book-library{
+    background-color: #ffffff;
+}
+.section{
+    text-align: left;
+}
